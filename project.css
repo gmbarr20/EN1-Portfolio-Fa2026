@@ -83,6 +83,10 @@ body {
     padding-left: 1.25rem;
 }
 
+.section-header {
+    text-align: center;
+}
+
 .proj-desc p {
     color: var(--color-text);
     margin: 0;
