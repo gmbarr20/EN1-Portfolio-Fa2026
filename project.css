@@ -78,8 +78,15 @@ body {
     line-height: 1.6;
 }
 
+.proj-section {
+    margin-bottom: 20px;
+    padding-left: 1.25rem;
+}
+
 .proj-desc p {
     color: var(--color-text);
+    margin: 0;
+    text-indent: 1.5rem;
 }
 
 /* Optional block: a labeled code sample. Delete this block on pages   */
